@@ -1,2 +1,2 @@
 # ID-Number
-简单的身份证号验证算法
+An algorithm used to check the last digit of ID number, only for Chinese citizens
